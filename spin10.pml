@@ -79,5 +79,5 @@ run Station(TunnelBC, TunnelCD, St_SgBoxC, Sgb_StC, 0);   /* station C */
         run SignalBox(St_SgBoxD, Sgb_StD, signalboxCD, signalboxDA);
 	}
 }
-ltl a { always party }
+ltl a { All Good }
 
